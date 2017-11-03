@@ -73,7 +73,7 @@ class Detail extends Component {
                         <div className='detail-box-text-bottom'>
                             {caracters.map(item => {
                                 if(item.description.length <= 0){
-                                    return <p>Não há descrição</p>
+                                    return <p key={3}>Não há descrição</p>
                                 }else {
                                     return <div key={3}><h5>Descrição:</h5><p>{item.description}</p></div>
                                 }
