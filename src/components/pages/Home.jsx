@@ -73,7 +73,7 @@ class Home extends Component {
           options={ options }>
           <TableHeaderColumn headerAlign='center' width='20%' dataField='name' dataFormat={handleRowName} isKey>Nome</TableHeaderColumn>
           <TableHeaderColumn headerAlign='center' width='60%' dataField='description'>Descrição</TableHeaderColumn>
-          <TableHeaderColumn headerAlign='center' dataAlign='center' width='20%' dataField='modified' dataFormat={handleRowModified}>Ultima Atualização</TableHeaderColumn>
+          <TableHeaderColumn headerAlign='center' dataAlign='center' width='20%' dataField='modified' dataFormat={handleRowModified}>Última Atualização</TableHeaderColumn>
         </BootstrapTable>
       </div>
     );

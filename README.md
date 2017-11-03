@@ -23,14 +23,13 @@ Logo após o procedimento acima, digite 'npm start' o browser vai abrir com a ap
 
 Para acessar a aplicação segue:
 
-Public key:
-
-98871180b28204f28ad9ddf9351f3e4e
-
-
 Private key:
 
 c7211b772d95c9f305f27605dac085ac50b95e2d
+
+Public key:
+
+98871180b28204f28ad9ddf9351f3e4e
 
 
 Caso não consiga instalar local, acesse: https://reactjs-de9e5.firebaseapp.com
